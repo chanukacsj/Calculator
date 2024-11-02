@@ -1,4 +1,3 @@
-console.log("index.js file is loaded.....");
 
 const display = document.querySelector(".display");
 const buttons = document.querySelectorAll("button");
